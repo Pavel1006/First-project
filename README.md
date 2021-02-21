@@ -1,1 +1,1 @@
-# First-pentru-program
+# First-school

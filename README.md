@@ -1,1 +1,1 @@
-# First-school
+# MyProject
